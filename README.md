@@ -1,8 +1,8 @@
 # bursting-dots
 Written in 2016,
 Java was the first computer language I learned and this is the first full project I made using it! 
-Based off of a mobile game (I unfortunately forget the name of, please let me know if you know it
-so I can give proper credits)
+Based off of a mobile game (I unfortunately can't find anymore, please let me know if you know it
+so I can give proper credits).
 
 To run (easiest way): 
 Import into Eclipse and run the GameGraphics.java file
