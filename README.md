@@ -1,5 +1,5 @@
 # bursting-dots
-Written in 2016
+Written in 2016,
 Java was the first computer language I learned and this is the first full project I made using it! 
 Based off of a mobile game (I unfortunately forget the name of, please let me know if you know it
 so I can give proper credits)
